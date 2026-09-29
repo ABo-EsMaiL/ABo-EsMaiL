@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Ahmed AbdElHady Esmail
 ### AI & Machine Learning Engineer | Based in Cairo, Egypt 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abdelhady-esmail) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABo-EsMaiL) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedaboesmail16@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AhmedAbdElHady222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abdelhady-esmail) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABo-EsMaiL) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedaboesmail16@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AhmedAbdElHady222/) [![CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ABo-EsMaiL/ABo-EsMaiL/raw/main/AI%20%26%20Machine%20Learning%20Engineer.pdf)
+
+
 
 ---
 
