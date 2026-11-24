@@ -27,7 +27,7 @@ Completed the 220-hour Master Machine Learning and AI Diploma at AMIT Learning, 
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/ABo-EsMaiL/Psoriasis-Classification"><img src="assets/card-psoriasis.svg" alt="Psoriasis Classification"></a></td>
-<td width="50%"><!-- re-add link when repo is public: <a href="https://github.com/ABo-EsMaiL/n8n-ai-automation-workflows"> ... </a> --><img src="assets/card-n8n.svg" alt="n8n AI Automation Workflows"></td>
+<td width="50%"><a href="https://github.com/ABo-EsMaiL/n8n-ai-automation-workflows"><img src="assets/card-n8n.svg" alt="n8n AI Automation Workflows"></a></td>
 </tr>
 <tr>
 <td width="50%"><!-- re-add link when repo is public: <a href="https://github.com/ABo-EsMaiL/image-captioning-flickr"> ... </a> --><img src="assets/card-caption.svg" alt="Image Captioning on Flickr"></td>
