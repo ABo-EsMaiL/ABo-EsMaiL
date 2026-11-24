@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="Journey: Jun 2023 - Feb 2024 AMIT Learning, Cairo: ML &amp; AI Trainee, 98% grade; Graduated 2024 Modern Academy (CS &amp; IT): B.Sc. Computer Science, 3.18/4.00; Feb 2025 - Mar 2026 Egyptian Armed Forces: Mandatory service completed; 2026 Building GenAI projects: RAG, agents, vision. Open to roles">
+<defs><linearGradient id="tl" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect x="0" y="0" width="1000" height="170" rx="16" fill="#0b1222"/>
+<rect x="49" y="58" width="0" height="4" rx="2" fill="url(#tl)"><animate attributeName="width" from="0" to="720" dur="2.6s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.6s" fill="freeze"/>
+<circle cx="50" cy="60" r="11" fill="#0b1222" stroke="#818cf8" stroke-width="3"/><circle cx="50" cy="60" r="11" fill="none" stroke="#818cf8"><animate attributeName="r" values="11;22;11" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0;0.6" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="39" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#818cf8">2023</text>
+<text x="39" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">AMIT Learning, Cairo</text>
+<text x="39" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Jun 2023 - Feb 2024</text>
+<text x="39" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">ML &amp; AI Trainee, 98% grade</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.6s" fill="freeze"/>
+<circle cx="290" cy="60" r="11" fill="#0b1222" stroke="#22d3ee" stroke-width="3"/><circle cx="290" cy="60" r="11" fill="none" stroke="#22d3ee"><animate attributeName="r" values="11;22;11" dur="3s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0;0.6" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="279" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#22d3ee">2024</text>
+<text x="279" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Modern Academy (CS &amp; IT)</text>
+<text x="279" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Graduated 2024</text>
+<text x="279" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">B.Sc. Computer Science, 3.18/4.00</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.6s" fill="freeze"/>
+<circle cx="530" cy="60" r="11" fill="#0b1222" stroke="#fb923c" stroke-width="3"/><circle cx="530" cy="60" r="11" fill="none" stroke="#fb923c"><animate attributeName="r" values="11;22;11" dur="3s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0;0.6" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="519" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#fb923c">2025</text>
+<text x="519" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Egyptian Armed Forces</text>
+<text x="519" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Feb 2025 - Mar 2026</text>
+<text x="519" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">Mandatory service completed</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.6s" fill="freeze"/>
+<circle cx="770" cy="60" r="11" fill="#0b1222" stroke="#34d399" stroke-width="3"/><circle cx="770" cy="60" r="11" fill="none" stroke="#34d399"><animate attributeName="r" values="11;22;11" dur="3s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0;0.6" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="759" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#34d399">Now</text>
+<text x="759" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Building GenAI projects</text>
+<text x="759" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">2026</text>
+<text x="759" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">RAG, agents, vision. Open to roles</text></g></svg>
