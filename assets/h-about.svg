@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="About">
+<defs><linearGradient id="u" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="0.6" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
+<text x="4" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#818cf8">&lt;/&gt;</text>
+<text x="52" y="33" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e0e7ff" opacity="0">About<animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.8s" fill="freeze"/></text>
+<rect x="4" y="46" width="0" height="3" rx="1.5" fill="url(#u)"><animate attributeName="width" values="0;992;992" keyTimes="0;0.3;1" dur="6s" repeatCount="indefinite"/></rect>
+<circle cy="47.5" r="4" fill="#a5b4fc"><animate attributeName="cx" values="4;996;996" keyTimes="0;0.3;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.29;0.3" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
