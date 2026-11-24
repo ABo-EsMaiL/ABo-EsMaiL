@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABo-EsMaiL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedaboesmail16@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhmedAbdElHady222/)
-[![CV](https://img.shields.io/badge/Download%20CV-16a34a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ABo-EsMaiL/ABo-EsMaiL/raw/main/AI%20%26%20Machine%20Learning%20Engineer.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-16a34a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ABo-EsMaiL/ABo-EsMaiL/raw/main/AI%20%26%20Machine%20Learning%20Engineer.pdf?v=2)
 
 </div>
 
